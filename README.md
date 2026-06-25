@@ -88,12 +88,6 @@ False Orders appears to be one of the latter.
 
 -----
 
-## A note on judge rulings
-
-This interaction was checked against judges in the official askjudges chat and the Commander Staple discord. I even checked with Jess Dunks the rules architect at the time of writing this, who admits that on its face yes the loophole may be allowing this to happen. The general response was that the rules may technically allow it, but judges reserve the right to rule on RAI over RAW.  This means you could be ruled against even if the strict reading is on your side. There are also no official rulings on this interaction on the Gatherer page as of this writing, so it’s worth checking there periodically in case that changes.
-
------
-
 ## On whether any of this should be updated
 
 Alpha was designed for a game that looked pretty different from what Magic is now. The rules framework was explicitly built around 1v1, and a lot of the cards reflect that. Lifetap, for instance, now reads “any opponent” in its Oracle text, where the original said “target opponent.” A small update that expands it to work beyond 1v1. False Orders got similar treatment with its oracle text, but it functionally changed dramatically.
