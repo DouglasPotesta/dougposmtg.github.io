@@ -58,7 +58,7 @@ Old Oracle text isn’t always a reliable guide to original intent. But if you�
 
 Rule 506.3d is the closest thing to a direct answer: if an effect would put a creature onto the battlefield blocking a creature that isn’t attacking the entering creature’s controller, a planeswalker they control, or a battle they protect, the creature enters the battlefield but is never considered a blocking creature.
 
-That rule cares about cross-lane blocking. Unfortunately, it covers creatures entering the battlefield as blockers, not creatures that are already on the battlefield being caused to block by an effect. False Orders doesn’t put anything onto the battlefield — the 1/1 is already there. It removes the creature from combat under 506.4 and then may cause it to block. The event that 506.3d governs isn’t the event False Orders creates.
+That rule cares about cross-lane blocking. Unfortunately, it covers creatures entering the battlefield as blockers, not creatures that are already on the battlefield being caused to block by an effect. False Orders doesn’t put anything onto the battlefield, the 1/1 is already there. It removes the creature from combat under 506.4 and then may cause it to block. The event that 506.3d governs isn’t the event False Orders creates.
 
 So you end up with the rules having explicit cross-lane restrictions for two situations declaring blockers (509.1, 802.4a) and entering the battlefield blocking (506.3d) but nothing explicitly written for the third situation, which is an existing creature being caused to block by a resolving effect. Rules 509.3a through 509.3f acknowledge this third category exists. They just don’t say it’s subject to the same lane restrictions as the other two.
 
