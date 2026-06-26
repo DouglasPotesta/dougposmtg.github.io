@@ -26,7 +26,7 @@ What False Orders does is remove a creature from combat (see rule 506.4) and the
 
 ## The targeting split
 
-There’s another piece to this: False Orders only targets one thing. “Target creature defending player controls” — that’s the target, chosen when you cast the spell per rules 115.1a and 601.2c. The attacking creature isn’t a target. The card says “an attacking creature of your choice,” with no use of the word “target.” Rule 115.10a is pretty direct about this: unless the text uses the word “target,” the thing being affected isn’t a target.
+There’s another piece to this: False Orders only targets one thing. “Target creature defending player controls” is the target chosen when you cast the spell per rules 115.1a and 601.2c. The attacking creature isn’t a target. The card says “an attacking creature of your choice,” with no use of the word “target.” Rule 115.10a is pretty direct about this: unless the text uses the word “target,” the thing being affected isn’t a target.
 
 What that means practically is that the attacking creature gets chosen on resolution, not on cast. Rule 608.2d covers this; choices that weren’t made while casting get made when the effect resolves, and they just have to be legal in that moment. All rules that restrict how a creature blocks and is allowed to be blocked are only with respect to declaring a blocker, which is distinct from an effect that directly has it block.
 
@@ -36,9 +36,9 @@ So at cast time, you lock in Bob’s creature. At resolution, you pick an attack
 
 The strongest case against using False Orders cross-lane comes from how the rules define “defending player.” Rule 508.5 says that when a spell or ability references both an attacking creature and a defending player, the defending player is whoever that attacking creature is attacking. Rules 508.5a and 802.2a reinforce this in the multiplayer context.
 
-The argument goes: if you pick the 3/3 as your attacking creature on resolution, Carol is the relevant defending player for that creature. False Orders targets “a creature defending player controls.” But the creature you targeted is Bob’s — and Bob isn’t Carol. The phrase “defending player” in False Orders and the attacking creature you chose are pointing at different players, so the whole thing falls apart.
+The argument goes: if you pick the 3/3 as your attacking creature on resolution, Carol is the relevant defending player for that creature. False Orders targets “a creature defending player controls.” But the creature you targeted is Bob’s — and Bob isn’t Carol. The phrase “defending player” in False Orders and the attacking creature you chose are pointing at different players, so the choice would be illegal.
 
-That’s not a bad argument. It’s grounded in actual rules text, not intuition. The problem with it is that 508.5, 508.5a, and 802.2a are definitional rules — they tell you how to identify “the defending player” in a given context. They don’t say that an effect cannot cause a creature controlled by one defending player to block a creature attacking a different defending player. Whether that implied prohibition is there or not is the actual dispute.
+The problem with it is that 508.5, 508.5a, and 802.2a are definitional rules that tell you how to identify “the defending player” in a given context. The context of an attacking creature is only used to help informs the definition of "the defending player." Since the defending player is already defined, there is nothing restricting which attacking creatures are valid choices. Take for example a spell that says "Each defending player chooses an attacking creature. Destroy all creatures not chosen this way." The players would be able to choose creatures not attacking them. 
 
 -----
 
@@ -46,7 +46,7 @@ That’s not a bad argument. It’s grounded in actual rules text, not intuition
 
 It helps to look at Camouflage, the other ancient blocking manipulation card that creates chaos in multiplayer.
 
-Its Oracle text tells each defending player to divide their creatures into piles based on attacking creatures “for whom that player is the defending player.” That specific phrase — “for whom that player is the defending player” — explicitly partitions everything by combat lane. Bob’s piles are built from creatures attacking Bob. Carol’s piles are built from creatures attacking Carol.
+Its Oracle text tells each defending player to divide their creatures into piles based on attacking creatures “for whom that player is the defending player.” That specific phrase, “for whom that player is the defending player,” explicitly partitions everything by combat lane. Bob’s piles are built from creatures attacking Bob. Carol’s piles are built from creatures attacking Carol.
 
 False Orders doesn’t say anything like that. It doesn’t say “an attacking creature attacking that player” or “for whom that player is the defending player.” It just says “an attacking creature of your choice.”
 
@@ -60,7 +60,7 @@ Rule 506.3d is the closest thing to a direct answer: if an effect would put a cr
 
 That rule cares about cross-lane blocking. Unfortunately, it covers creatures entering the battlefield as blockers, not creatures that are already on the battlefield being caused to block by an effect. False Orders doesn’t put anything onto the battlefield — the 1/1 is already there. It removes the creature from combat under 506.4 and then may cause it to block. The event that 506.3d governs isn’t the event False Orders creates.
 
-So you end up with the rules having explicit cross-lane restrictions for two situations — declaring blockers (509.1, 802.4a) and entering the battlefield blocking (506.3d) — but nothing explicitly written for the third situation, which is an existing creature being caused to block by a resolving effect. Rules 509.3a through 509.3f acknowledge this third category exists. They just don’t say it’s subject to the same lane restrictions as the other two.
+So you end up with the rules having explicit cross-lane restrictions for two situations declaring blockers (509.1, 802.4a) and entering the battlefield blocking (506.3d) but nothing explicitly written for the third situation, which is an existing creature being caused to block by a resolving effect. Rules 509.3a through 509.3f acknowledge this third category exists. They just don’t say it’s subject to the same lane restrictions as the other two.
 
 That gap is where False Orders lives.
 
