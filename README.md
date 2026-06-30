@@ -1,6 +1,6 @@
 # Breaking Mutliplayer Block Restrictions with False Orders
 
-False Orders is not a good card. It’s a one-mana Alpha instant that removes a creature from combat and maybe redirects it to block something else. Nobody’s winning tournaments with it. Nobody’s building around it.
+False Orders is not a good card. It’s a one-mana instant from alpha that removes a creature from combat and maybe redirects it to block something else. Nobody’s winning tournaments with it. Nobody’s building around it.
 
 What it is, is old enough to predate a lot of the infrastructure the rules have built up around multiplayer combat. Strangely the original text of the card is less confusing, than it's oracle text which has one line of text that creates a genuinely weird question in Commander:
 
@@ -9,6 +9,8 @@ What it is, is old enough to predate a lot of the infrastructure the rules have 
 Say Alice is attacking Bob with a 5/5 and attacking Carol with a 3/3. Bob blocks the 5/5 with a 1/1. You cast False Orders targeting Bob’s 1/1. When the spell resolves, can you have that 1/1 block the 3/3 aimed at Carol instead of getting it out of the way of the 5/5?
 
 The answer feels like it has to be no. Bob’s creatures block for Bob. That’s the whole premise of multiplayer combat. But when you actually go looking for the rule that says so in this specific situation, things get complicated.
+
+TLDR; Blocking restrictions are only for declaring blocks, which includes the checks for which defending player's creatures are allowed to block which attacking creatures. "May have it block" is understood to get around blocking restrictions such as "can't be blocked." Since multiplayer block restrictions are similarly only checked when declaring blocks, it means that this effect also circumvents that specific restriction. This is what allows "False Orders" to target one defending player's creature to block a creature attacking a different defending player.
 
 -----
 
